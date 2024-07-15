@@ -22,7 +22,7 @@ public class Ejercicio3 {
 	 *
 	 */
 
-		public void main(String[] args) {
+		public static void main(String[] args) {
 
 			int calificación = Consola.leerEntero("Introduce tu calificación númerica");
 
@@ -41,3 +41,4 @@ public class Ejercicio3 {
 		}
 
 	}
+

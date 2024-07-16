@@ -1,18 +1,18 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-  <modelVersion>4.0.0</modelVersion>
-  <groupId>com.github.malenalopez</groupId>
-  <artifactId>curso-java-inicial-asap-lopez</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
-<packaging>jar</packaging>
- 
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.github.malenalopez</groupId>
+	<artifactId>curso-java-inicial-asap-lopez</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
+
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven.compiler.target>11</maven.compiler.target>
 		<maven.compiler.source>11</maven.compiler.source>
 	</properties>
- 
+
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/com.google.code.gson/gson -->
 		<dependency>
@@ -26,14 +26,14 @@
 			<version>main-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
- 
+
 	<repositories>
 		<repository>
 			<id>jitpack.io</id>
 			<url>https://jitpack.io</url>
 		</repository>
 	</repositories>
- 
+
 	<build>
 		<plugins>
 			<plugin>
@@ -43,5 +43,5 @@
 			</plugin>
 		</plugins>
 	</build>
- 
+
 </project>

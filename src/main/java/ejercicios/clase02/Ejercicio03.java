@@ -1,4 +1,4 @@
-package ejerciciosClase2;
+package ejercicios.clase02;
 
 import com.github.sanchezih.util.io.Consola;
 

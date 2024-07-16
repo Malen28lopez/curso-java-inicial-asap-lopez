@@ -2,10 +2,12 @@ package Clase3;
 import com.github.sanchezih.util.io.Consola;
 
 public class Ejercicio2 {
+	
 	public static void main(String[] args) {
 		
 		/**
-		* Programa que pide 10 numeros por teclado, los almacena en un array y que luego muestra el maximo valor, el minimo y las posiciones que ocupan en el array.
+		* Programa que pide 10 numeros por teclado, los almacena en un array y que luego muestra el maximo valor, 
+		* el minimo y las posiciones que ocupan en el array.
 		* 
 		*/
 
